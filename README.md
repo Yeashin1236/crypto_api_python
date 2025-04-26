@@ -18,7 +18,7 @@ The project aims to:
 
 3. Structure the data into a pandas DataFrame for further analysis.
 
-4 . Perform basic exploratory data analysis (EDA), such as sorting top cryptocurrencies by market cap or price.
+4. Perform basic exploratory data analysis (EDA), such as sorting top cryptocurrencies by market cap or price.
 
 5. Fetch real-time data from a crypto market API.
 
